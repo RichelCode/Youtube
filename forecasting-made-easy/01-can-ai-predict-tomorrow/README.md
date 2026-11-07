@@ -70,4 +70,4 @@ Every model gets the same 4 weeks of history and forecasts the next 24 hours, on
 
 ---
 
-**Next episode:** Time Series Forecasting Explained Simply (trend, seasonality and noise). Coming soon.
+**Next episode:** [Time Series Forecasting Explained Simply](../02-trend-seasonality-noise/) (trend, seasonality and noise)
