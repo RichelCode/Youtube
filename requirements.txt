@@ -1,0 +1,10 @@
+# Only needed for the Forecasting Made Easy series.
+# Python for Beginners uses the standard library only.
+# Python 3.11 or 3.12. Google Colab already includes most of these.
+chronos-forecasting>=2.3.2,<3
+statsforecast>=2.1,<3
+utilsforecast>=0.2.17
+pandas>=2.2
+pyarrow
+matplotlib
+jupyter
