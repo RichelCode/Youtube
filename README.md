@@ -22,6 +22,16 @@ We race Amazon's Chronos-2 AI model against "same as yesterday" and a classic st
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RichelCode/Youtube/blob/main/forecasting-made-easy/01-can-ai-predict-tomorrow/can_ai_predict_tomorrow.ipynb)
 
+### Coming next
+
+The notebooks are ready now, so you can read ahead:
+
+| Video release | Episode |
+|---|---|
+| Wed 18 Nov 2026 | [Time Series Forecasting Explained Simply](forecasting-made-easy/02-trend-seasonality-noise/) (trend, seasonality and noise) |
+| Wed 25 Nov 2026 | [Build Your First Demand Forecast in Python, Step by Step](forecasting-made-easy/03-first-demand-forecast/) |
+| Wed 2 Dec 2026 | [The Forecasting Mistake That Fakes Good Results](forecasting-made-easy/04-data-leakage/) (data leakage) |
+
 ## How to use this repository
 
 | I want to… | Do this |
