@@ -9,6 +9,7 @@
 | # | Episode | What you'll learn | Materials |
 |---|---|---|---|
 | 01 | **Can AI Predict Tomorrow?** | Time series basics, the lazy forecast, AI foundation models, and a fair race between them | [Notebook and notes](01-can-ai-predict-tomorrow/) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RichelCode/Youtube/blob/main/forecasting-made-easy/01-can-ai-predict-tomorrow/can_ai_predict_tomorrow.ipynb) |
+| 02 | **Time Series Forecasting Explained Simply** | Trend, seasonality and noise, and how to take any series apart with STL and MSTL | [Notebook and notes](02-trend-seasonality-noise/) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RichelCode/Youtube/blob/main/forecasting-made-easy/02-trend-seasonality-noise/trend_seasonality_noise.ipynb) |
 
 New episodes are added here as they're released.
 
