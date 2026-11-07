@@ -42,10 +42,13 @@ pip install -r requirements.txt
 ```
 Youtube/
 ├── forecasting-made-easy/        # Forecasting Made Easy series
-│   └── 01-can-ai-predict-tomorrow/
-│       ├── can_ai_predict_tomorrow.ipynb   # slides + code, in video order
-│       ├── data/                            # the dataset and its source
-│       └── figures/                         # diagrams used in the video
+│   ├── 01-can-ai-predict-tomorrow/
+│   │   ├── can_ai_predict_tomorrow.ipynb   # slides + code, in video order
+│   │   ├── data/                            # the dataset and its source
+│   │   └── figures/                         # diagrams used in the video
+│   ├── 02-trend-seasonality-noise/          # every episode has the same layout
+│   ├── 03-first-demand-forecast/
+│   └── 04-data-leakage/
 ├── python-for-beginners/         # Python for Beginners series (lessons 01–10)
 ├── requirements.txt              # packages for the forecasting series
 ├── LICENSE                       # MIT, for the code
