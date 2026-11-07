@@ -71,4 +71,4 @@ No maths background needed.
 
 ---
 
-**Previous episode:** [Can AI Predict Tomorrow?](../01-can-ai-predict-tomorrow/) · **Next episode:** Build Your First Demand Forecast in Python, Step by Step
+**Previous episode:** [Can AI Predict Tomorrow?](../01-can-ai-predict-tomorrow/) · **Next episode:** [Build Your First Demand Forecast in Python, Step by Step](../03-first-demand-forecast/)
