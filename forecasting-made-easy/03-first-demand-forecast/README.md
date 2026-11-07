@@ -70,4 +70,4 @@ This is one bridge in one city. Treat it as evidence for this data, and test on 
 
 ---
 
-**Previous episode:** [Time Series Forecasting Explained Simply](../02-trend-seasonality-noise/) · **Next episode:** The Forecasting Mistake That Fakes Good Results (data leakage)
+**Previous episode:** [Time Series Forecasting Explained Simply](../02-trend-seasonality-noise/) · **Next episode:** [The Forecasting Mistake That Fakes Good Results](../04-data-leakage/) (data leakage)
